@@ -2,6 +2,8 @@
 # Charon Black Hackers (Version 1.1)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+# Project Programmer
+> Ch4120N - Ch4120Ni@Gmail.com
 ## ِDefault Color Settings
 
 | Color             | Hex                                                                |
@@ -23,16 +25,10 @@
 | Bracket Contents Options|![underline](https://via.placeholder.com/10/underline?text=+) underline|
 | Tags Options|![stippled underline](https://via.placeholder.com/10/stippled_underline?text=+) stippled underline|
 
+## Installation
+
 ## Authors
 
 - [@Charon1385](https://www.github.com/Charon1385)
 - [@Ch4120N](https://wwww.github.com/Ch4120N)
 - [@CharonSecurityAgency](https://www.github.com/)
-
-
-## Installation
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
