@@ -35,7 +35,7 @@ Go to Preferences > Browse Packages
 ```
 Preferences > Select Color Scheme > Choose Charon Black Hackers
 ```
-#### And <font color='lime'>Enjoy</font>
+#### And <span style="color: green"> Enjoy</span>
 ## Authors
 
 - [@Charon1385](https://www.github.com/Charon1385)
