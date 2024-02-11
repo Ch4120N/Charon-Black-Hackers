@@ -26,7 +26,16 @@
 | Tags Options|![stippled underline](https://via.placeholder.com/10/stippled_underline?text=+) stippled underline|
 
 ## Installation
+```
+Go to Preferences > Browse Packages
+```
+#### I Recommended you to create a directory and place the _`Charon Black Hackers.tmTheme`_ file in that directory.
 
+#### After Create Directory Go To Sublime Text And Go To:
+```
+Preferences > Select Color Scheme > Choose Charon Black Hackers
+```
+#### And <font color='lime'>Enjoy</font>
 ## Authors
 
 - [@Charon1385](https://www.github.com/Charon1385)
