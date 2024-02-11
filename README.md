@@ -29,13 +29,16 @@
 ```
 Go to Preferences > Browse Packages
 ```
-#### I Recommended you to create a directory and place the _`Charon Black Hackers.tmTheme`_ file in that directory.
+> Recommended
 
-#### After Create Directory Go To Sublime Text And Go To:
+Create a directory and place the _`${\color{lime}Charon Black Hackers.tmTheme}$`_ file in that directory.
+
+After Create Directory Go To Sublime Text And Go To:
 ```
 Preferences > Select Color Scheme > Choose Charon Black Hackers
 ```
-#### And ${\color{lime}Enjoy}$
+And ${\color{lime}Enjoy}$
+
 ## Authors
 
 - [@Charon1385](https://www.github.com/Charon1385)
