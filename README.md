@@ -1,5 +1,6 @@
 
-# Charon Black Hackers (Version 1.1) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+# Charon Black Hackers (Version 1.1)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## ِDefault Color Settings
 
