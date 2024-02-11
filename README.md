@@ -1,10 +1,4 @@
-<div align=center>
-  
-  # Charon Black Hackers (Version 1.1)
-
-</div>
-
-# $${\color{red}Made \space \color{yellow}In \space \color{Green}IRAN}$$
+# Charon Black Hackers (Version 1.1)
 
 # Project Programmer
 > Ch4120N - Ch4120Ni@Gmail.com
