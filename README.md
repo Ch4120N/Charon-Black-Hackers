@@ -1,9 +1,9 @@
 
 # Charon Black Hackers (Version 1.1)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 # Project Programmer
 > Ch4120N - Ch4120Ni@Gmail.com
+
 ## ِDefault Color Settings
 
 | Color             | Hex                                                                |
