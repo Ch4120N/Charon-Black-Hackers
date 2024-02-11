@@ -1,5 +1,8 @@
+<center>
+    # Charon Black Hackers (Version 1.1)
 
-# Charon Black Hackers (Version 1.1)
+    $${\color{red}Made \space \color{yellow}In \ space \color{green}IRAN}$$
+</center>
 
 # Project Programmer
 > Ch4120N - Ch4120Ni@Gmail.com
@@ -31,12 +34,13 @@ Go to Preferences > Browse Packages
 ```
 > Recommended
 
-Create a directory and place the _`${\color{lime}Charon Black Hackers.tmTheme}$`_ file in that directory.
+Create a directory and place the _`Charon Black Hackers.tmTheme`_ file in that directory.
 
 After Create Directory Go To Sublime Text And Go To:
 ```
 Preferences > Select Color Scheme > Choose Charon Black Hackers
 ```
+
 And ${\color{lime}Enjoy}$
 
 ## Authors
