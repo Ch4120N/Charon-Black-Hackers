@@ -1,6 +1,7 @@
 # Charon Black Hackers (Version 1.1)
 
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads-pre/Ch4120N/Charon-Black-Hackers/latest/total?label=downloads)
+<!-- ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/Ch4120N/Charon-Black-Hackers/latest/total?label=downloads) -->
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/Ch4120N/Charon-Black-Hackers/latest/total?style=for-the-badge&label=downlaods)
 
 # Project Programmer
 > Ch4120N - Ch4120Ni@Gmail.com
