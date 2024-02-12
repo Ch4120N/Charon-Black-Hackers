@@ -1,7 +1,6 @@
 # Charon Black Hackers (Version 1.1)
 
 <!-- ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/Ch4120N/Charon-Black-Hackers/latest/total?label=downloads) -->
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/Ch4120N/Charon-Black-Hackers/latest/total?style=for-the-badge&label=downlaods)
 
 # Project Programmer
 > Ch4120N - Ch4120Ni@Gmail.com
@@ -40,19 +39,10 @@ After Create Directory Go To Sublime Text And Go To:
 Preferences > Select Color Scheme > Choose Charon Black Hackers
 ```
 
-And ${\color{lime}Enjoy}$
+And Enjoy
 
 ## Authors
 
 - [@Charon1385](https://www.github.com/Charon1385)
 - [@Ch4120N](https://wwww.github.com/Ch4120N)
 - [@CharonSecurityAgency](https://www.github.com/)
-
-## License
-
-[CGBL](https://choosealicense.com/licenses/mit/)
-
-
-<!-- ![Static Badge](https://img.shields.io/badge/charon-mammad-lime?style=flat)
-
- -->
