@@ -40,9 +40,3 @@ Preferences > Select Color Scheme > Choose Charon Black Hackers
 ```
 
 And Enjoy
-
-## Authors
-
-- [@Charon1385](https://www.github.com/Charon1385)
-- [@Ch4120N](https://wwww.github.com/Ch4120N)
-- [@CharonSecurityAgency](https://www.github.com/)
