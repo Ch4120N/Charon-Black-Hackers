@@ -1,4 +1,5 @@
 # Charon Black Hackers (Version 1.1)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Ch4120N/Charon-Black-Hackers/total)
 
 # Project Programmer
 > Ch4120N - Ch4120Ni@Gmail.com
@@ -44,3 +45,12 @@ And ${\color{lime}Enjoy}$
 - [@Charon1385](https://www.github.com/Charon1385)
 - [@Ch4120N](https://wwww.github.com/Ch4120N)
 - [@CharonSecurityAgency](https://www.github.com/)
+
+## License
+
+[CGBL](https://choosealicense.com/licenses/mit/)
+
+
+<!-- ![Static Badge](https://img.shields.io/badge/charon-mammad-lime?style=flat)
+
+ -->
